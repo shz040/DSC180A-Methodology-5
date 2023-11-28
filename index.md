@@ -1,10 +1,10 @@
-# Your Name and UCSD Email
-- Your Name: [Your Name]
-- UCSD Email: [Your UCSD Email]
+# Sheng's DSC180A-Methodology-5
+- Your Name: Sheng Zhou
+- UCSD Email: shz040@ucsd.edu
 
-# Your Section and Mentor
-- Section: [Your Section Name]
-- Mentor: [Your Mentor's Name]
+# Section and Mentor
+- Section: B18
+- Mentor: Brian Duke and Berk Ustun
 
 ## Brainstorming for Quarter 2 Project Proposal
 
