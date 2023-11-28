@@ -1,12 +1,12 @@
 # Sheng's DSC180A-Methodology-5
 - Name: Sheng Zhou
-- UCSD Email: shz040@ucsd.edu
+- Email: shz040@ucsd.edu
 
 # Section and Mentor
 - Section: B18
 - Mentor: Brian Duke and Berk Ustun
 
-## Brainstorming for Quarter 2 Project Proposal
+## For Quarter 2 Project
 
 **Prompt 1:**
 This quarter, we focused on making a new credit score. We looked at credit card transactions and used fancy computer methods like BERT to clean and sort the information. Our first try with these methods worked pretty well, getting an 88% accuracy. We want to make this even better by making our own special models. This shows how using computers to make better credit scores is really exciting!
